@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Tomate",
+        "precio": 0.9
+    },
+    {
+        "nombre": "Manzana",
+        "precio": 0.75
+      },
+      {
+        "nombre": "Plátano",
+        "precio": 0.5
+      },
+      {
+        "nombre": "Naranja",
+        "precio": 0.6
+      },
+      {
+        "nombre": "Uva",
+        "precio": 1.2
+      },
+      {
+        "nombre": "Pera",
+        "precio": 0.8
+      },
+      {
+        "nombre": "Arroz",
+        "precio": 2.5
+      },
+      {
+        "nombre": "Frijoles",
+        "precio": 1.8
+      },
+      {
+        "nombre": "Aceite",
+        "precio": 3.2
+      },
+      {
+        "nombre": "Sal",
+        "precio": 0.7
+      },
+      {
+        "nombre": "Azúcar",
+        "precio": 2.0
+      },
+      {
+        "nombre": "Harina",
+        "precio": 1.5
+      },
+      {
+        "nombre": "Lentejas",
+        "precio": 2.2
+      },
+      {
+        "nombre": "Pasta",
+        "precio": 1.0
+      },
+      {
+        "nombre": "Café",
+        "precio": 4.0
+      },
+      {
+        "nombre": "Té",
+        "precio": 2.8
+      }
+
+]
